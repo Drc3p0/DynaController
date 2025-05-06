@@ -3,7 +3,7 @@ The dynacontroller PCB can be used either use as a standalone MIDI controller, o
 
 Repo contains Kicad files, Arduino code, and media of device in use. 
 
-<img src="https://github.com/Drc3p0/Dynacontroller/blob/main/Dynacontroller-assembled-PCB/dynacontroller-underside-of-touchplate" width="800" />
+<img src="https://github.com/Drc3p0/Dynacontroller/blob/main/Dynacontroller-assembled-PCB/dynacontroller-underside-of-touchplate.jpg" width="800" />
 
 <img src="https://github.com/Drc3p0/Dynacontroller/blob/main/Dynacontroller-assembled-PCB/dynacontroller-in-sunlight.jpg" width="800" />
 
