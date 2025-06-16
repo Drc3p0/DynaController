@@ -166,9 +166,9 @@ uint8_t ElectrodeTouchedA[numElectrodes] = {0,0,0,0,0,0,0,0,0,0,0,0};
 uint8_t ElectrodeTouchedB[numElectrodes] = {0,0,0,0,0,0,0,0,0,0,0,0};
 
 //old MIDI output notes ?? can  delete?
-//const uint8_t notesA[numElectrodes] = {36, 38, 40, 43, 45, 47, 48, 50, 52, 55, 57, 60}; //added by drc
+//const uint8_t notesA[numElectrodes] = {58, 50, 48, 60, 49, 57, 46, 52, 36, 38, 55, 51}; //mapped to old large controller midi mapping
   const uint8_t notesA[numElectrodes] = {24, 36, 48, 45, 33, 57, 60, 55, 53, 41, 43, 31}; //remapped for dynacontroller 
-//const uint8_t notesB[numElectrodes] = {37, 39, 41, 42, 46, 49, 51, 53, 54, 56, 58, 59}; //added by dry
+//const uint8_t notesB[numElectrodes] = {1, 1, 1, 1, 43, 53, 40, 45, 54, 47, 56, 1}; //mapped to old large controller midi mapping
   const uint8_t notesB[numElectrodes] = {1, 2, 3, 4, 40, 29, 52, 50, 28, 38, 26, 5}; //remapped for dynacontroller
 // add a map of pins to location in xy coordinates with each led
 // add functiono for how close a xy vector is to the location of the pad in xy space
